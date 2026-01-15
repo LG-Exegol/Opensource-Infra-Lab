@@ -4,3 +4,5 @@ Projet de Fin d'Étude pour le passage du titre RNCP Niv.6 (37680) : Administrat
 Contient la documentation sur l'installation et la configuration de l'infrastructure.
 
 Pour l'instant la documentation est en français uniquement, mais sera in fine traduite en anglais.
+
+Il semble que les images ne fonctionnent pas directement sur github. Pour visualiser la documentation correctement, vous pouvez utiliser Obsidian (logiciel utilisé pour la réalisation de la documentation).
