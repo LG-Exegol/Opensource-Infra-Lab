@@ -2,3 +2,5 @@
 Projet de Fin d'Étude pour le passage du titre RNCP Niv.6 (37680) : Administrateur d'infrastructures sécurisées
 
 Contient la documentation sur l'installation et la configuration de l'infrastructure.
+
+Pour l'instant la documentation est en français uniquement, mais sera in fine traduite en anglais.
